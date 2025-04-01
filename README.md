@@ -1,4 +1,4 @@
-# Smart Recycling Classifier - Web Application
+# Smart Recycling Classifier
 
 ## Description
 
