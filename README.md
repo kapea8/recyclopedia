@@ -11,7 +11,7 @@ This web application utilizes a machine learning model, trained with Teachable M
 * **Real-time Feedback:** Provides immediate feedback on whether the user correctly sorted the waste.
 * **Educational Content:** Includes information about recycling best practices and the importance of recycling.
 * **User-friendly Interface:** Designed with a clean and intuitive interface using HTML, CSS, and JavaScript.
-* **Audio Feedback:** provides audio cues for correct and incorrect sorting.
+* **Audio Feedback:** Provides audio cues for correct and incorrect sorting.
 
 ## Usage
 
